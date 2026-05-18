@@ -13,4 +13,4 @@
 
 **Video Walkthrough:** [Insert Link to Video]
 
-**AI Usage Documentation:** [Insert Link to AI Usage Documentation]
+**AI Usage Documentation:** [AI Documentation](https://github.com/NathanielCamachoUmak/Language-Implementation-Audit-DOWND/blob/82c477ab7873daf6f40c42db715062ffe2a4b70b/project-overview/AI-Documentation.md)
