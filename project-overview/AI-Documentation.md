@@ -9,26 +9,32 @@ The AI assistant was used strictly as a structural aid and syntax reference thro
 
 ### 1. Environment Setup & File Formatting
 **Prompt:** Instructed the AI to create markdown and Python file templates to hold the extracted code and analysis, ensuring the structure matched the Jupyter Notebook rubric.
+
 **Assistance:** The AI generated the blank `.md` and `.py` files. The author manually moved the final formatted text into the Jupyter Notebook environment to ensure proper cell execution and layout.
 
 ### 2. Section 2.1 — Data Types (A) to Exception Handling (H)
 **Prompt:** For each of the 8 concepts (Data Types, Expressions, Control Structures, Subprograms, Encapsulation, OOP/Components, Concurrency, and Exception Handling), the AI was prompted to scan the existing React/JS codebase, extract a relevant snippet demonstrating the concept, and wrap it in the correct markdown syntax.
+
 **Assistance:** The AI located the code snippets within the local directory and formatted them into code blocks. The AI provided structural suggestions for the brief 1-2 sentence analysis. The author reviewed every snippet to ensure it accurately represented the project's logic and heavily edited the analytical text to reflect their own architectural decisions.
 
 ### 3. Section 2.2 — Performance and Memory Analysis
 **Prompt:** Asked for syntax reference on how to accurately measure execution time and memory footprint in a JavaScript/Node.js environment, specifically looking for the equivalents to Python's `%timeit` and `sys.getsizeof`.
+
 **Assistance:** The AI provided the syntax structure for `console.time()`, `performance.now()`, and `process.memoryUsage().heapUsed`. The author applied this syntax to two distinct implementations within their own codebase, ran the benchmarks manually, and recorded the factual performance results. The conclusion was written entirely by the author based on the observed data.
 
 ### 4. Section 3 — Comparative Analysis
 **Prompt:** Requested the AI to generate a blank markdown table structure to compare the project's current JavaScript/React stack against the previous PHP stack across the 8 core concepts.
+
 **Assistance:** The AI provided the structural markdown table (columns and rows). The AI also provided baseline syntax comparisons (e.g., JS Event Loop vs. PHP synchronous blocking). The author verified these technical baselines and wrote the final "Overall Conclusion," detailing the trade-offs of migrating the project's registration systems and login portals from PHP to React.
 
 ### 5. Section 4 — Code Smell and Refactoring
 **Prompt:** Prompted the AI to scan the existing codebase for structural inefficiencies (Code Smells) and format a side-by-side comparison of the original snippet and a proposed structural refactor using modern ES6+ features.
+
 **Assistance:** The AI formatted the original codebase snippet and provided a syntax-corrected refactor. The author reviewed the proposed changes, tested the refactored logic within the project environment to ensure it did not break the UI or database connections, and accepted the formatting for the notebook.
 
 ### 6. Section 5 — Grammatical Corrections
 **Prompt:** Asked for grammatical corrections, mainly using Grammarly AI Writing Assistant on the Reflection and the AI Documentation itself.
+
 **Assistance:** The AI mainly corrected grammatical errors made by the author when writing the Reflection and the AI documentation.
 
 ## Summary
