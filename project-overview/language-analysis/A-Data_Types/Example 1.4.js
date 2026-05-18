@@ -1,0 +1,1 @@
+     const { data, error } = await supabase.schema('Chessistant').from('Profiles').select('*');
