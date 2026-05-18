@@ -3,7 +3,7 @@
 ## Tool Used: Gemini, GeminiCLI, Grammarly
 
 ## Overview
-The AI assistant was used strictly as a structural aid and syntax reference throughout this audit. The entire codebase (JavaScript/React/Supabase and the previous PHP version) was originally authored by the student. The AI was not used to generate the project from scratch; rather, it was directed via a Command Line Interface (CLI) / structured prompts to locate specific programming concepts within the pre-existing repository and format them appropriately for the Jupyter Notebook. All extracted code, analysis summaries, and final conclusions were manually reviewed, verified, and adjusted by the author to reflect personal understanding and actual project architecture.
+The AI assistant was used strictly as a structural aid and syntax reference throughout this audit. The entire codebase (JavaScript/React/Supabase and the previous PHP version) was originally authored by the group. The AI was not used to generate the project from scratch; rather, it was directed via a Command Line Interface (CLI) / structured prompts to locate specific programming concepts within the pre-existing repository and format them appropriately for the Jupyter Notebook. All extracted code, analysis summaries, and conclusions were manually reviewed, verified, and adjusted by the author to reflect personal understanding and actual project architecture.
 
 ## Prompts and Outputs
 
@@ -27,9 +27,9 @@ The AI assistant was used strictly as a structural aid and syntax reference thro
 **Prompt:** Prompted the AI to scan the existing codebase for structural inefficiencies (Code Smells) and format a side-by-side comparison of the original snippet and a proposed structural refactor using modern ES6+ features.
 **Assistance:** The AI formatted the original codebase snippet and provided a syntax-corrected refactor. The author reviewed the proposed changes, tested the refactored logic within the project environment to ensure it did not break the UI or database connections, and accepted the formatting for the notebook.
 
-### 6. Section 5 — Reflection
-**Prompt:** Asked for gramatical corrections mainly using Grammarly AI Writing Assistant.
-**Assistance:** The AI mainly corrected gramatical errors made by the author.
+### 6. Section 5 — Grammatical Corrections
+**Prompt:** Asked for grammatical corrections, mainly using Grammarly AI Writing Assistant on the Reflection and the AI Documentation itself.
+**Assistance:** The AI mainly corrected grammatical errors made by the author when writing the Reflection and the AI documentation.
 
 ## Summary
 
@@ -45,4 +45,4 @@ The AI assistant was used strictly as a structural aid and syntax reference thro
 ---
 
 ## Disclaimer
-The AI tool was utilized strictly as an advanced search, formatting, and syntax reference tool, akin to referencing official documentation. All source code analyzed in this audit was written by the author. The AI did not architect the system or write the functional logic of the web application. All reflections, comparative trade-offs, and final conclusions represent the author's own academic evaluation of the transition from a PHP backend to a modern JavaScript environment.
+The AI tool was utilized strictly as an advanced search, formatting, and syntax reference tool, akin to referencing official documentation. All source code analyzed in this audit was written by the author. The AI did not architect the system or write the functional logic of the web application. All reflections, comparative trade-offs, and conclusions represent the author's own academic evaluation of the transition from a PHP backend to a modern JavaScript environment.
