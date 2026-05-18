@@ -1,0 +1,3 @@
+     setLoading(true);
+     await ...
+     setLoading(false);

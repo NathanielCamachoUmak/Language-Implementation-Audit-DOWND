@@ -1,0 +1,1 @@
+     if (!window.confirm('Are you sure you want to deny this application?')) return;

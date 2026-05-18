@@ -1,0 +1,1 @@
+     <h2>Welcome back, <span className="admin-highlight">{adminData?.StudName || 'Admin'}</span></h2>

@@ -1,0 +1,1 @@
+     Rating: parseInt(e.target.value)

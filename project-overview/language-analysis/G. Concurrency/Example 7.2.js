@@ -1,0 +1,1 @@
+   const { data: { session } } = await supabase.auth.getSession();

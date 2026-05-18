@@ -1,0 +1,1 @@
+     <button onClick={() => handleAccept(reg)}>Accept</button>

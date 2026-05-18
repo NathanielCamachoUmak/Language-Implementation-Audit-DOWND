@@ -1,0 +1,1 @@
+     onChange={(e) => setEditForm({...editForm, StudName: e.target.value})}

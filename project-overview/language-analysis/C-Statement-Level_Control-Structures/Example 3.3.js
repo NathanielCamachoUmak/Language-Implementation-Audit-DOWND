@@ -1,0 +1,1 @@
+     {registrations.length === 0 ? ( <p>No pending applications.</p> ) : ( <table ... > ... </table> )}
