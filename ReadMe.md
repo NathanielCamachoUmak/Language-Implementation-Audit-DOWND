@@ -11,6 +11,6 @@
 
 **Primary Repository:** [Project Repository](https://github.com/Andre-Arcilla/Chess-Org-App)
 
-**Video Walkthrough:** [Insert Link to Video]
+**Video Walkthrough:** [Insert Link to Video](https://drive.google.com/file/d/1d3obxcxVA76vjFY7AIdc9w4pjoIzIFy2/view)
 
 **AI Usage Documentation:** [AI Documentation](https://github.com/NathanielCamachoUmak/Language-Implementation-Audit-DOWND/blob/82c477ab7873daf6f40c42db715062ffe2a4b70b/project-overview/AI-Documentation.md)
